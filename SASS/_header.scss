@@ -1,0 +1,38 @@
+header , .rate-section{
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+header{
+  h1{
+    color: $primary-color;
+    margin-bottom: 20px;
+  }
+
+  p{
+    color: $p-txt-color;
+    font-weight: 500;
+    font-size: $font-size;
+  }
+}
+
+.rate-section{
+  display: grid;
+  row-gap: 10px;
+}
+
+.rate{
+  padding: 15px 0px;
+  border-radius: 10px;
+  background-color: $rate-color;
+
+  p{
+    color: $primary-color;
+    font-weight: 700;
+    font-size: .8rem;
+  }
+}
+
+.rate-stars{
+  margin-bottom: 10px;
+}

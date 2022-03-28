@@ -1,0 +1,37 @@
+.testimonial-section{
+  display: grid;
+  row-gap: 20px;
+}
+
+.testimonial{
+  border-radius: 10px;
+  background-color: $primary-color;
+  padding: 40px;
+  color: $testimonial-txtcolor;
+  font-size: .75rem;
+  font-weight: 400;
+
+  p{
+    line-height: 20px;
+  }
+}
+
+.author{
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+
+  img{
+    border-radius: 100%;
+    width: 40px;
+    margin-right: 20px;
+  }
+}
+
+.name{
+  font-weight: 700;
+}
+
+.info{
+  color: $seconday-color;
+}

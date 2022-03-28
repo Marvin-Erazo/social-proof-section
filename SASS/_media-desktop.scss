@@ -1,0 +1,73 @@
+@media screen and (min-width: 1024px) {
+  body{
+    background: url("/images/bg-pattern-top-desktop.svg") no-repeat fixed left top,
+                url("/images/bg-pattern-bottom-desktop.svg") no-repeat fixed right bottom
+    ;
+  }
+
+  main{
+    padding: 0 40px;
+    height: 100vh;
+  }
+
+  .top, .rate{
+    display: flex;
+    align-items: center;
+  }
+  .top{
+    header,section{
+      width: 50%;
+    }
+  }
+
+  header{
+    text-align: left;
+    border: 1px solid;
+    margin-right: 80px;
+
+    h1{
+      font-size: 3rem;
+    }
+  }
+
+  .rate{
+    width: 80%;
+    padding: 20px;
+  }
+
+  .rate-stars{
+    margin: 0  20px 0 0;
+    border: 1px solid;
+  }
+
+  .guru{
+    margin: auto;
+  }
+
+  .best-tech{
+    transform: translateX(25%);
+  }
+
+  .testimonial-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    height: 250px;
+    column-gap: 20px;
+  }
+
+  .irene{
+    border: 1px solid;
+    transform: translateY(20px);
+  }
+
+  .anne{
+    transform: translateY(40px);
+  }
+
+}
+
+@media screen and (min-width: 1366px) {
+  main{
+    padding: 150px;
+  }
+}
