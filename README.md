@@ -36,7 +36,7 @@ Desktop
 
 ### Links
 
-- Solution URL: https://github.com/Marvin-Erazo/
+- Solution URL: https://github.com/Marvin-Erazo/social-proof-section
 - Live Site URL: https://social-proof-me.netlify.app/
 
 ## My process
