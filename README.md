@@ -26,10 +26,11 @@ Users should be able to:
 
 Mobile
 
-
+![image](https://user-images.githubusercontent.com/90436675/160510753-d65fc425-8c43-429a-a070-e85850dbbdbc.png)
 
 Desktop
 
+![image](https://user-images.githubusercontent.com/90436675/160510684-d382c39a-a296-40b1-9837-c2b023d433c0.png)
 
 
 
