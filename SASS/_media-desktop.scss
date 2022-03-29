@@ -1,3 +1,5 @@
+//FOR DEVICES >=1024px
+
 @media screen and (min-width: 1024px) {
   body{
     background: url("/images/bg-pattern-top-desktop.svg") no-repeat fixed left top,
@@ -14,6 +16,7 @@
     display: flex;
     align-items: center;
   }
+  
   .top{
     header,section{
       width: 50%;

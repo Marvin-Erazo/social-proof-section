@@ -1,3 +1,6 @@
+//mobile first
+//DEVICES WITH DIMENSION >375px AND <1024px
+
 @import "variables";
 
 *{
@@ -5,6 +8,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 
 body{
   background: url("/images/bg-pattern-top-mobile.svg") no-repeat top,
@@ -25,7 +29,6 @@ main{
     padding: 60px 80px;
   }
 }
-//mobile first
 
 @import "header";
 @import "testimonial";
