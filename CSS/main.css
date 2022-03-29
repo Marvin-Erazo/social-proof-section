@@ -128,7 +128,6 @@ footer a {
 
   header {
     text-align: left;
-    border: 1px solid;
     margin-right: 80px;
   }
   header h1 {
@@ -142,7 +141,6 @@ footer a {
 
   .rate-stars {
     margin: 0 20px 0 0;
-    border: 1px solid;
   }
 
   .guru {
@@ -161,7 +159,6 @@ footer a {
   }
 
   .irene {
-    border: 1px solid;
     transform: translateY(20px);
   }
 
